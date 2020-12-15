@@ -1,5 +1,5 @@
 {
-    "name": "mattketmo/email-checker",
+    "name": "suprvise/email-checker",
     "description": "Throwaway email detection library",
     "license": "MIT",
     "keywords": ["email", "check", "throwaway", "disposable"],
